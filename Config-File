@@ -1,18 +1,14 @@
 {
     "portBindings": [
         {
-            "port": 2000,
-            "protocol": "TCP"
-        },
-        {
-            "port": 3000,
+            "port": 2096,
             "protocol": "UDP"
         }
     ],
     "users": [
         {
-            "name": "iSegaro",
-            "password": "EtT7124&1F3R"
+            "name": "AshgabatKurmanj",
+            "password": "8bRuslN8rq76hSjl/+/A1aHuy/2i0GP3ijGgO7i88eA="
         }
     ],
     "loggingLevel": "INFO",
