@@ -1,7 +1,7 @@
 {
     "portBindings": [
         {
-            "port": 2096,
+            "port": 4443,
             "protocol": "UDP"
         }
     ],
