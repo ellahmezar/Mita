@@ -1,7 +1,7 @@
 {
     "portBindings": [
         {
-            "port": 4443,
+            "port": 500,
             "protocol": "UDP"
         }
     ],
@@ -12,5 +12,5 @@
         }
     ],
     "loggingLevel": "INFO",
-    "mtu": 1480
+    "mtu": 1452
 }
