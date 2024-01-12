@@ -12,5 +12,5 @@
         }
     ],
     "loggingLevel": "INFO",
-    "mtu": 1452
+    "mtu": 1500
 }
