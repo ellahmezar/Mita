@@ -1,14 +1,14 @@
 {
     "portBindings": [
         {
-            "port": 500,
+            "port": 2096,
             "protocol": "UDP"
         }
     ],
     "users": [
         {
             "name": "AshgabatKurmanj",
-            "password": "b9goCCuEoVIsh2rXQjjaSwHq"
+            "password": "9a94a3e7-3081-450c-9573-84311251e01c"
         }
     ],
     "loggingLevel": "INFO",
